@@ -17,6 +17,6 @@
 
 ---
 ### Note:
-+ All different clusters related to education has been grouped together for ease of visualization
-
++ All different clusters related to **Education (Pendidikan)** has been grouped together for ease of visualization
++ There still needs to be more cleaning for the **daerah** data. For example:  'Klang' & 'klang'
 ---
